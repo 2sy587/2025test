@@ -1,4 +1,5 @@
 import streamlit as st
 
 
-st.write('내 이름은 2sy')
+st.write('내 학번은 20812')
+
